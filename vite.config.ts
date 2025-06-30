@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import { fileURLToPath, URL } from "node:url";
-//izmeniya
+//go
 const host = process.env.TAURI_DEV_HOST;
 
 // https://vitejs.dev/config/
